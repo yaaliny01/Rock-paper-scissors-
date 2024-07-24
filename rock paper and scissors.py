@@ -1,6 +1,5 @@
 # PYTHON PROJECT 1
 
-
 import random
 Rock = ("""
    _______
@@ -45,7 +44,7 @@ else:
         print("You lose.")
     elif user_choice == 0 and computer_choice == 2:
         print("You win.") 
-    elif computer_choice > user_choice:    # 2 > 0
+    elif computer_choice > user_choice:    
         print("You lose.")
-    elif user_choice > computer_choice:    # 2 > 0
+    elif user_choice > computer_choice:    
         print("You win.")
