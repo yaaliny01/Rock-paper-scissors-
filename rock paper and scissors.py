@@ -1,5 +1,3 @@
-# PYTHON PROJECT 1
-
 import random
 Rock = ("""
    _______
